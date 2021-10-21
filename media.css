@@ -1,0 +1,13 @@
+@media (max-width:800px) {
+    .felx-container {
+        justify-content:space-around;
+    }  
+}
+
+@media (max-width:500px ) {
+    .felx-container{
+        flex-direction: column wrap;
+        padding: 0px;
+    }
+
+}
